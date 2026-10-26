@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Pocket ID is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://pocket-id.org/
+Pocket ID is an easy-to-use, self-hosted OpenID Connect Certified™ and OAuth 2.0 provider. It enables applications to authenticate users with passkeys instead of passwords, offering a secure and passwordless login experience. The solution is open source, runs on Linux, macOS, and Windows, and can be deployed on-premises for full control over identity data.
+
+**Areas:** Company · Identity · OpenID Connect · OAuth2 · Self-Hosted
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://pocket-id.org/)
+- [Documentation](https://docs.pocket-id.org/)
+- [Getting started](https://pocket-id.org/docs/setup/installation)
+- [API reference](https://pocket-id.org/llms.txt)
+- [Changelog](https://pocket-id.org/changelog)
+- [Security](https://github.com/pocket-id/pocket-id/security/policy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/pocket-id/](https://apis.io/providers/pocket-id/).
